@@ -1,18 +1,16 @@
 # Site settings
-title: Daktilo
+title: An Unaccounted human
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog about my everyday learnings in programming, life
+  and universe.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://blog.avinoth.com" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  fullname: Vinoth kumar
+  github: avinoth
+  twitter: avinoth_
   # disqus: your_disqus_username
 
 # google_analytics: 'UA-XXXXXXXX-X'
