@@ -1,12 +1,18 @@
 ---
 title: Who Am I? A Developer or a System Administrator
-date: 2014-12-21 07:37:05 Z
+date: 2014-05-12 07:37:05 Z
 layout: post
+categories:
+- programming
+tags:
+- story
 ---
 
 That’s the one question that keeps on pondering in my head.
 
 I do Sys Admin activities as part of my job, push patches & software, keep the infra live, and I develop internal websites and spend all my free time in reading web development.
+
+<!-- more -->
 
 So, a system administrator by profession and a web developer by heart.. jeez, that’s a lethal combination isn’t it.. I like doing sysAdmin activities as part of my job, learning about it, involving into it. At the same time I also like to contribute to open source projects do all sorts of crazy stuff you could do in a website. For Which I learn., A Lot.
 

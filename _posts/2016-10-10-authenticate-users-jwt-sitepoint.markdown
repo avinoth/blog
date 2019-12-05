@@ -2,12 +2,12 @@
 title: Authenticate users via JWT and API
 date: 2016-10-10 12:55:00 Z
 categories:
-- sitepoint
+- programming
 tags:
 - rails
-- programming
 - api
 - sitepoint
+- jwt
 layout: post
 ---
 

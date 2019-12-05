@@ -1,6 +1,13 @@
 ---
+layout: post
 title: after_commit callbacks and transactions
 date: 2017-02-08 09:54:00 Z
+categories:
+- programming
+tags:
+- ruby
+- rails
+
 ---
 
 Recently I was debugging a code on [Intelllex](https://intelllex.com) API and thought I'd share.
@@ -8,6 +15,8 @@ Recently I was debugging a code on [Intelllex](https://intelllex.com) API and th
 We have a product called Stacks, where users can save links, searches and files to it, which helps them with organizing their legal research. Our stack is Rails on the API side and Angular on the client side.
 
 We use [counter culture](https://github.com/magnusvk/counter_culture) gem to cache the counts of things that are saved to stacks by users and we also have the ability where users can save and move stuff from one stack to multiple stacks.
+
+<!-- more -->
 
 So, we had received this complaint that the count is not being properly saved when items are saved to stack. I was working on it and discovered that the bug is, when users save a single link to more than one stack only on the first stack the count is being updated and rest of them are not. Weird.
 

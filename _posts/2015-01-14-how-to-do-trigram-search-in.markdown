@@ -2,13 +2,22 @@
 title: How to do Trigram searches in postgreSQL with rails
 date: 2015-01-14 03:29:34 Z
 layout: post
+categories:
+- programming
+tags:
+- rails
+- ruby
+- postgres
+- tutorial
 ---
 
 Postgresql as we know is one of the most matured and robust database out there. It is open source, provides more features than any of its counterparts. It's also the [second](http://ocelot.ca/blog/blog/2013/10/14/the-third-most-popular-open-source-dbms/) most used open source DBMS out there. If you aren't using it [download](http://www.postgresql.org/download/) and get started.
 
 Today we shall look at how to perform trigram indexed searches and trigram combined with postgres full text search. Let's get started.
 
-#### What is trigram?
+<!-- more -->
+
+### What is trigram?
 An n-gram of three letter sequence is known as trigram. What is ngram then? From wikipedia,
 
 >In the fields of computational linguistics and probability, an n-gram is a contiguous sequence of n items

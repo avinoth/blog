@@ -1,12 +1,21 @@
 ---
 title: My New ‘Outlook’
-date: 2014-12-21 07:50:28 Z
+date: 2014-09-16 07:50:28 Z
 layout: post
+categories:
+- thinkpiece
+tags:
+- privacy
+- google
+- rant
+- linux
 ---
 
 In my last post I mentioned that I am going abandon Google for different services starting with my mail account.
 
 I am writing this to tell that the first step toward my Migrations phase of is DONE. I have successfully migrated my mails and a new mail ID to the beautiful and awesome Outlook.
+
+<!-- more -->
 
 I had few initial hiccups for the migration one being that all my contacts are in Gmail since I was using an Android phone before (now a Windows phone), and the second being the Gmail’s fantastic ‘+’ feature for emails. I have my emails separated with the ‘+’ symbol for different purposes like, vinoth+friends@gmail.com, vinoth+github@gmail.com and so on.. This provided an easeful management of my mails. But there comes an lesser but useful alternative in the name of alias in Outlook. It enables to create different email accounts but with same password and mailbox. Although it provided lesser flexibility in managing 10s of aliases but it’s better than completely lacking.
 
@@ -22,7 +31,7 @@ After that I connected the Gmail account so that I could send from my Gmail acco
 
 It’s been three days since I migrated the email account and I am slowly letting my contacts know about the new email account and in the meantime consolidating the emails by unsubscribing to almost all of the newsletters that are no more useful for me in my new job.
 
-##### Things I love in Outlook
+### Things I love in Outlook
 
 In the three days I discovered more features in Outlook which I rather miss in Gmail.
 
@@ -32,7 +41,7 @@ The Slick user interface from which I can read my emails more clearly, which I r
 
 The mail composing tools. The mail composing tools of Gmail is really annoying for me, since I have to click through various of links just to add the CC in my email and the pasting the content from other emails results in horrible formatting. Outlook provides a full page email composing page which is fantastic to use.
 
-##### Things I miss in Outlook
+### Things I miss in Outlook
 
 As of now, there is nothing. I am enjoying the new Outlook and it’s providing more features than in Gmail. I haven’t used Gmail’s calendar or its Tasks feature so I won’t have a problem with it lacking here.
 

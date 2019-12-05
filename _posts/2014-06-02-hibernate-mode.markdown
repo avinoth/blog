@@ -1,10 +1,16 @@
 ---
 title: Hibernate Mode
-date: 2014-12-21 07:44:44 Z
+date: 2014-06-02 07:44:44 Z
 layout: post
+categories:
+- thinkpiece
+tags:
+- story
 ---
 
 For the last few days, I was quite in an Hibernate mode from the Internet life. I actually was completely off the internet even from the mobile for the past one week due to my exams. Well, the period turned more awful than to think of.,
+
+<!-- more -->
 
 First, I missed more important mails to be addressed in a quicker time making the worst first impressions to some important people.. seriously IMPORTANT people..
 

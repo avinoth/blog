@@ -2,11 +2,17 @@
 layout: post
 title: Git branch naming convention
 date: 2019-05-28 23:58 +0000
+categories:
+- programming
+tags:
+- git
 ---
 
 As you probably know, [git](https://git-scm.com/) is a popular version control software used in projects across the globe. One of the major feature and one that distinguishes it from other tools is it's branching mechanism. Code is usually tracked via commits and grouped by branches in git.
 
 As the branches are lightweight and disposable it's very easy to get cluttered when many people are working on a project or if there are many branches. And so, as anything with software, naming a git branch will itself need a standard convention to be followed in a project to keep it organized and sane. There are many naming formats out there and several project specific ones I've worked with.
+
+<!-- more -->
 
 Over the years I've tried many of those naming formats and they almost always have shortcomings either with discoverability or ease of use or enforcing it as an convention. Sometimes it doesn't scale with many people or with many long living branches. And so my quest began and after several iterations on varying sized projects, I now use a convention which has worked very well on different projects. This post is my best attempt in documenting it.
 

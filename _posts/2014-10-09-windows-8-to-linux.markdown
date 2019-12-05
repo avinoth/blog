@@ -1,12 +1,21 @@
 ---
 title: Windows 8 to Linux
-date: 2014-12-21 07:52:12 Z
+date: 2014-10-09 07:52:12 Z
 layout: post
+categories:
+- thinkpiece
+tags:
+- privacy
+- google
+- rant
+- linux
 ---
 
 It has been long time, 25 days if I remember correctly that I lastly posted. In my last posts I have mentioned that I am migrating away from most of my regular services. Well, almost done now, but the services I left out are more than I planned initially.
 
 First I begun with migrating my Google services, Gmail, Chrome, Gdrive to Outlook, firefox, dropbox respectively.
+
+<!-- more -->
 
 Above are the things that I have planned to do, but in the middle of them I made some big leaps that one shouldn’t do carefully before planning. First, an urge started to migrate my Windows 8 Laptop to Ubuntu. I am an avid windows user for a long time, and power user to be precise.
 

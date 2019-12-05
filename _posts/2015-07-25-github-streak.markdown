@@ -2,13 +2,20 @@
 title: Github Streak
 date: 2015-07-25 13:35:02 Z
 layout: post
+categories:
+- programming
+tags:
+- git
+- github
 ---
 
 Today my Github streak turned 50. Yes, I've been trying to maintain it and yes I'm writing a blog post about it.
 
 Few weeks ago me and my [friend](https://twitter.com/hindupuravinash) were casually chatting up about the github streak and how [people](https://github.com/karan) [are](https://github.com/akerl) keeping up to it continuously for months (even years) and how recruiting revolves around the commits one has publicly done, flaws in the system, benefits of it and etc., After the chat we wanted to try how hard it will be to maintain the streak and so we started a [bet](https://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29) within ourselves on who loses the streak first.
 
-#### What is it?
+<!-- more -->
+
+### What is it?
 [Github](https://github.com/avinoth) as you know is a code repository service and Github streak is an activity timeline which shows how a person is *active* on github based on his contributions to public code. It tracks private repos too but won't be available to others.
 
 Coders love to maintain it(?!) and recruiters love to see it filled. Maintaining the streak is like an achievement as how Roger won wimbeldon consecutively. There are even [sites](http://longeststreak.net/) that tracks who has the longest streaks at github. And there are bots to auto commit daily (WTF humans). What once supposed to be an information panel turned into a score board of how people trying to race others.

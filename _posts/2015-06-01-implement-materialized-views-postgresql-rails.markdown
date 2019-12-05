@@ -2,6 +2,13 @@
 title: Implement Materialized views PostgreSQL + Rails
 date: 2015-06-01 16:42:01 Z
 layout: post
+categories:
+- programming
+tags:
+- rails
+- ruby
+- postgres
+- tutorial
 ---
 
 Today I would like to talk about Materialized views (henceforth referred as matviews) and how to add it to an Rails app.
@@ -13,6 +20,8 @@ From wikipedia,
 > A materialized view is a database object that contains the results of a query.
 
 Basically, matviews are similar to database views except they are stored in disk and updated periodically. Matviews stores the result of an query into a table like structure of its own, from which the data can be queried on. We can't add or delete rows from it but rest it behaves as an actual table.
+
+<!-- more -->
 
 Also, when the data the matviews is created upon changes the matviews need to be refreshed before being available.
 

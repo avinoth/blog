@@ -1,12 +1,20 @@
 ---
 title: My Python Learning Path - Flask or Django?
-date: 2014-12-21 07:40:18 Z
+date: 2014-06-06 07:40:18 Z
 layout: post
+categories:
+- programming
+tags:
+- python
+- beginner
+- story
 ---
 
 Ever since I have completed my basics in [python](python.org) through [codeacademy](codecademy.com) and various online tutorials, I just can’t keep the urge in learning a web development framework and dive right into it.
 
 Actually, my learning path started with Django at first (strangely) with most basic knowledge(syntax knowledge) of python. I studied the django tutorials and also gone half way through the “Building your first Django app”, everything seen clear at that point, but if I pass it on and came back to that another day it will look alien to me. I was moving nowhere. Then, I realized that the reason I am struggling here is I seriously don’t know anything and I am just believing that I know Python basics.
+
+<!-- more -->
 
 I stopped the tutorial right there and deleted all the work done on setting up the django environment completely, to come back with some real python knowledge equipped. Then I went to [learnpythonthehardway](learnpythonthehardway.com), it was very clear and concise in how to setup the environment and how to begin with (complete self serve) but then, I felt I was still not getting a grasp of some of the important concepts around OOPS concept.
 

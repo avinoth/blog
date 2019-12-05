@@ -1,10 +1,20 @@
 ---
 title: Around Ruby-RoR-Javascript-Coffeescript in 40 Days.
-date: 2014-12-21 07:53:00 Z
+date: 2014-10-16 07:53:00 Z
 layout: post
+categories:
+- programming
+tags:
+- ruby
+- javascript
+- rails
+- beginner
+- story
 ---
 
 As in my recent posts, I have been involved in heavy migrations this month and one of the main thing I am migrating is from Python to Ruby. It was indeed an big leap considering Python was my first language of choice (excluding Java, C++, .NET that I learned while in college) and was a bit indulged with it, it was hard to get familiar into another one. This was required for the next job I am switching in 40 days.
+
+<!-- more -->
 
 Ruby was fun, there is no denying in it. It was even cute in the way of simplified syntaxes so I got hooked up quickly. Later then followed the additional requirements with it.
 

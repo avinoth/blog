@@ -1,7 +1,14 @@
 ---
 title: Why I Want to Move Away My Google Account
-date: 2014-12-21 07:49:12 Z
+date: 2014-09-15 07:49:12 Z
 layout: post
+categories:
+- thinkpiece
+tags:
+- privacy
+- google
+- rant
+- linux
 ---
 
 Google, It’s like a Walmart for Internet services. You can get whatever you want from its portfolio of products ranging from Email to Wedding planner, it wants to simplify everything… literally everything.
@@ -12,13 +19,15 @@ Now, that’s a good thing to have all our needs and services under one roof.
 
 that’s how Google let’s you manage all of your google services from only one account. There’s a long going debate whether that’s a better or bad thing, I am not going into that, it’s upto you for deciding. But, as the saying goes, Never put all your eggs in one basket and why is that?
 
+<!-- more -->
+
 You can log in to your Gmail account, check your mails, Open blogger and write a blogpost, then go to your calendar and RSVP for the appointments, switch back to Google Docs to edit some documents and upload and share it via Google Drive to your colleagues, Check in Google maps and feed the places that you want directions for, and your day is over. You can spend literally everyday using Google’s wide range of services for each and every need of you to sustain “productively”.
 
 I am not denying nor say I am not enjoying this kind of connections between all, but it’s not good.. Definitely not good.
 
-##### Let me explain why..
+#### Let me explain why..
 
-I am not going to justify using some hypothetical crap, like Google starts using all of its information about us combined with its Robotics and Skyline technologies to conquer the world and making us slaves*.
+I am not going to justify using some hypothetical crap, like Google starts using all of its information about us combined with its Robotics and Skyline technologies to conquer the world and making us slaves\*.
 
 But, let me be practical
 
@@ -32,6 +41,6 @@ So, I decided to switch away almost** all of my Google accounts and split it acr
 
 I will update status of these migrations in the upcoming posts.
 
-*Although, I wouldn’t surprise if that happens.
+\*Although, I wouldn’t surprise if that happens.
 
 **Some of the services like Google Drive are deeply connected along with my friend’s drives so, it needs to stay for a while.

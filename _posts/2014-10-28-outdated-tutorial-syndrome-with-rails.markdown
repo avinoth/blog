@@ -1,10 +1,18 @@
 ---
 title: Outdated Tutorial Syndrome With Rails
-date: 2014-12-21 07:54:16 Z
+date: 2014-10-28 07:54:16 Z
 layout: post
+categories:
+- programming
+- thinkpiece
+tags:
+- ruby
+- rails
 ---
 
 Ruby on Rails also goes with name Rails or RoR is a full fledged web development framework based on Ruby. It is one of the famous frameworks out there without doubt that provides a new prespective towards web development. But there exists a Virus with it in the name of tutorials. Inspite of its sheer community and widespread adaption, it still struggles with its tutorials.
+
+<!-- more -->
 
 If you by any chance read my old posts, I have been started learning python with a goal of switching from a SysAdmin to a full time web developer. Things went well, and I got myself many interviews among one which I have been offered an Associate Software Engineer position but with Rails. So, I’d have to start adapting to Ruby and ofcourse to Rails.
 

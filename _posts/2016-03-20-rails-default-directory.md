@@ -2,8 +2,10 @@
 title: Rails Default Directory
 date: 2016-03-20 14:13:00 Z
 categories:
+- programming
+tags:
+- rails
 - sitepoint
-category: sitepoint
 layout: post
 ---
 

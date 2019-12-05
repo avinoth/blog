@@ -1,12 +1,19 @@
 ---
 title: View Youtube Videos on Restricted Network
-date: 2014-12-21 07:38:38 Z
+date: 2014-04-06 07:38:38 Z
 layout: post
+categories:
+- tips
+tags:
+- tutorial
+- youtube
 ---
 
 Ever been in an situation where the [Youtube](youtube.com) is blocked, either in your school or in your office or somewhere else?
 
 Well, this is actually done by Internet firewall software which is used by your organization to protect their network users from accessing certain category websites (like social media, adult sites, download sites, etc.)
+
+<!-- more -->
 
 Follow the below steps to unblock Youtube videos in such restricted network(Checked with Websense and Ironport security firewall)
 

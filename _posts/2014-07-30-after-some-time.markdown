@@ -1,12 +1,21 @@
 ---
 title: After Some Time
-date: 2014-12-21 07:47:03 Z
+date: 2014-07-30 01:45:00 Z
 layout: post
+categories:
+- programming
+tags:
+- python
+- beginner
+- sideprojects
+- opensource
 ---
 
 After some time away from blogging and some climb in the learning curve in python, I gotta admit I have learnt ton of new things and not alone that but I have written some scripts that actually works!!
 
 I’ve wrote some scripts for my company which I can’t share it but I learned many new libraries and automated some of the most tedious tasks that were performed manually before.
+
+<!-- more -->
 
 Below are some of the practice projects that I am currently working on and hoping to complete in few days or maybe weeks.
 

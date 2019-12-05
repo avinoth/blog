@@ -2,11 +2,17 @@
 title: A better journal app
 date: 2015-03-01 14:15:15 Z
 layout: post
+categories:
+- indiehacking
+tags:
+- startwriting
 ---
 
 Last week I have been to the first [gopherconindia](gophercon.in) happened at Banglore, India. It was fun and there were lots of good talks about [golang](go-lang.org) that really inspired me to start diving into Go, it requires a separate post of its own.
 
 Anyway, being travelling for the first time and meeting people I had an unusual urge to write down my experiences of the day and how I felt just hot out of the stove. Yeah, a journal in short. I was first prepared to start writing in age old Pen and Paper, but given the current conveniences out there I don't want to stick with a diary that I can't tag and have to limit one per year and cutting out truth with fear of someone might read it.
+
+<!-- more -->
 
 So, I set out to look for an online journal that has the following functionalities in main,
 
@@ -16,7 +22,7 @@ So, I set out to look for an online journal that has the following functionaliti
 * Should show a dashbooard of entries logged.
 * Should be taggable.
 
-On the hunt, [penzu](http://penzu.com), [dayone](http://dayoneapp.com) and [diaro](http://diaroapp.com) came close to the above requirements but not satisfying all. 
+On the hunt, [penzu](http://penzu.com), [dayone](http://dayoneapp.com) and [diaro](http://diaroapp.com) came close to the above requirements but not satisfying all.
 
 One of the main concern of all these apps is they have a copy of my entries in their database and have an option to sync with Dropbox. I am not being paranoid, but the thought of my **private** entries are with a third-party doesn't feel good. After many diggings and searches I ended up with no good solution in hand.
 

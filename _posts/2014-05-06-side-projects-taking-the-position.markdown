@@ -1,12 +1,18 @@
 ---
 title: Side Projects Taking the Position
-date: 2014-12-21 07:44:10 Z
+date: 2014-05-06 07:44:10 Z
 layout: post
+categories:
+- thinkpiece
+tags:
+- indiehacking
 ---
 
 Today while browsing Hacker News, I came across a post from the creator of 2048, about how he built the game in a weekend just for fun as a side project. All he did was post it into the Designer news (not with the intention to promote it) to get a feedback, and it burst out.
 
 Those of you who don’t know 2048 is an addictive puzzle game - inspired by threes as the author attributes.
+
+<!-- more -->
 
 The game eventually became a huge hit. It made to the top of Hacker news and became the third most upvoted content in that site. News sites covered it, and even the creators of Threes, the Game 2048 was based upon, showed an concern about how their true hardwork is covered up by the clones and ripoffs. This isn’t the first time a Side project making its way to the top of something. We have seen, yinstant (claimed to be built in 3 hours), Flappy bird, and many others. These kind of projects are sensational hit and not only gaining fame to its creators, but also makes a big way for lot of copycats.
 

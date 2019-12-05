@@ -1,10 +1,17 @@
 ---
 title: Open Source Contribution for Beginners
-date: 2014-12-21 07:42:52 Z
+date: 2014-09-26 07:42:52 Z
 layout: post
+categories:
+- programming
+tags:
+- beginner
+- opensource
 ---
 
 Lately, finding an open source project to contribute for beginners is so daunting and hard to find. I myself, searched and searched to find an apt project that will use my skills and knowledge level for the contribution, but as it turns out it is near impossible to find an actual required contribution.
+
+<!-- more -->
 
 So, to fix the gap and to help myself and others like me I have created my first Github repository for this purpose. OpenSourceForBeginners is the repository name.
 

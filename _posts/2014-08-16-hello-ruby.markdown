@@ -1,12 +1,20 @@
 ---
 title: Hello Ruby..!!
-date: 2014-12-21 07:48:33 Z
+date: 2014-08-16 07:48:33 Z
 layout: post
+categories:
+  - programming
+tags:
+ - beginner
+ - ruby
+ - python
 ---
 
 Yes, you read it right. I have been learning Python as you can see from my blog for almost 6 months now and have developed some decent apps too.
 
 It has been an fun ride overall and looking back myself 6 months before, I really couldn’t believe how my life was without knowing everything now. I learned more python and web development in general to an greater extent, got familiar with frameworks and much more.. But, in a span of weeks there is no more “SysAdmin by profession and WebDev by heart”, Only “WebDev by profession, by heart and by soul”.
+
+<!-- more -->
 
 Yes, I got a break into a programming field after my stint of learning and boy believe me, the tough road is still ahead.
 

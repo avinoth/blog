@@ -1,12 +1,18 @@
 ---
 title: My First Working App
-date: 2014-12-21 07:47:57 Z
+date: 2014-12-08 07:47:57 Z
 layout: post
+categories:
+- indiehacking
+tags:
+- sideprojects
 ---
 
 It’s been a few days that I lastly blogged but the delay was worth it since I came up with my first deployment of a small app that actually works.
 
 It is a tiny app that serves tiny purpose. It don’t make your life better, It don’t save the world.
+
+<!-- more -->
 
 I present you, MovieSuggester - A simple movie suggester app that gives you random movies to watch when you are bored. Basically, it uses themoviedb’s API for getting a random movie with given Genre and Year. Then, it uses IMDB’s unofficial API OMDB to get the movie plot, movie poster and the year of it.
 

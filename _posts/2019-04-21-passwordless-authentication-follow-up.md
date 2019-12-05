@@ -2,6 +2,12 @@
 layout: post
 title: Passwordless authentication - follow up
 date: 2019-04-21 12:53 +0000
+categories:
+- programming
+tags:
+- ruby
+- rubygems
+- passwordless
 ---
 
 This is a follow-up post to my previous article on [how to implement passwordless authentication in rails](https://www.sitepoint.com/password-less-authentication-in-rails/) in sitepoint. It basically talks about how to implement login with just rails model, controller and a login token.

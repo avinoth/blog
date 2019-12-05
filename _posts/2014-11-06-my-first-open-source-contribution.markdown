@@ -1,14 +1,21 @@
 ---
 title: My First Open Source Contribution
-date: 2014-12-21 07:45:35 Z
+date: 2014-11-06 07:45:35 Z
 layout: post
+categories:
+- programming
+tags:
+- opensource
+- beginner
 ---
 
 So, it has been already more than two months I have started to learn programming from the ground up (Again!). And I just wanted to take this to the next level, and that’s where the most beautiful thing in the world came along and helped me.
 
 Before that, let me tell you explicitly that I literally didn’t contributed from programming perspective but it was nice to take a good look at it and learn how things are actually happening.
 
-###### How it began?
+<!-- more -->
+
+#### How it began?
 
 I always knew wanted to work for Open Source, but as a beginner I wasn’t sure where to begin exactly.
 
