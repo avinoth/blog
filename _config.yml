@@ -1,0 +1,53 @@
+### Site info:
+title: Vinoth's blog
+tagline: Ramblings and musings of one inconsequential human
+author: Vinoth
+email: mail@avinoth.com
+description: "The only blog of Vinoth." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "avinoth, technology, software, startups, indiehacker"
+url: "https://blog.avinoth.com/" # the base hostname & protocol for your site
+locale: en_US
+
+### Personal info and site tools info:
+twitter_username: avinoth_
+github_username:  avinoth
+disqus_shortname: avinoth
+favicon:     "/images/favicon.ico"
+aboutme: Hi, I'm Vinoth. Programmer, Software consultant, Indie hacker.
+# aboutme_photo: http://lorempixel.com/400/200/
+# google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
+
+
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"
+      PostDate: "on "
+      Google_search: "Site Search"
+      Home: "Home"
+      About: "About"
+      Subscribe: "Subscribe"
+
+### Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+        input: GFM
+        syntax_highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+excerpt_separator: <!-- more -->
