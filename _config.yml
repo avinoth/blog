@@ -11,7 +11,6 @@ locale: en_US
 ### Personal info and site tools info:
 twitter_username: avinoth_
 github_username:  avinoth
-disqus_shortname: avinoth
 favicon:     "/images/favicon.ico"
 aboutme: Hi, I'm Vinoth. Programmer, Software consultant, Indie hacker.
 # aboutme_photo: http://lorempixel.com/400/200/

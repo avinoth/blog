@@ -19,7 +19,6 @@
     &:visited
     &:hover {
       color: $brand-top-color; //$grey-color-dark
-      border-bottom: 1px dotted;
       text-decoration: none;
     }
   }
@@ -30,7 +29,7 @@
   line-height:56px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  text-align:center; 
+  text-align:center;
   color: $grey-color;
 }
 
@@ -120,7 +119,7 @@
     color: $grey-color-dark;
   }
   li{
-    list-style: none; 
+    list-style: none;
   }
 
 }
@@ -133,9 +132,9 @@
 .site-footer {
   clear: both;
   text-align: center;
-  background-color: #f9f9f9;
+  // background-color: #f9f9f9;
   border-top: 1px solid $grey-color-light;
-  margin: $spacing-unit 0; 
+  margin: $spacing-unit 0;
   padding: $spacing-unit 0;
   font-size: 14px;
 }
@@ -161,7 +160,7 @@
 
 .post-link {
   display: block;
-  font-size: 38px;//42px;
+  font-size: 42px;
 }
 
 
@@ -180,7 +179,8 @@
 }
 
 .post-title {
-  font-size: 38px;//42px;
+  color: $brand-color;
+  font-size: 42px;
   letter-spacing: -1px;
   line-height: 1;
 
@@ -198,8 +198,8 @@
   padding:20px 15px;
   li{
     padding-top:10px;
-    position:relative; 
-    list-style-type:none;  
+    position:relative;
+    list-style-type:none;
   }
 }
 
@@ -214,9 +214,9 @@
 
 
 .post-content {
-  p { padding:$spacing-unit/5 0; } 
+  p { padding:$spacing-unit/5 0; }
   //  margin-bottom: $spacing-unit;
-  h1 { 
+  h1 {
     font-size: 38px;
     line-height:1em;
     @include media-query($on-laptop){

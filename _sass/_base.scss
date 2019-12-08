@@ -28,7 +28,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, 
+h1, h2, h3, h4,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -53,10 +53,9 @@ ul, ol, dl, figure,
   padding-left: $spacing-unit;
   padding-top:30px;
 
-  background-color:#fff;
+  background-color:#1f2e45;
   margin-top:20px;
   margin-bottom:30px;
-  box-shadow: 1px 1px 10px #BBB;
 }
 
 /*for media*/
@@ -138,32 +137,24 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-top-color;
+  color: $link-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-top-color, 25%);
-  }
-
   &:hover {
-    color: #669900; //$hover-color;
-    text-decoration: underline;
+    color: darken($link-color, 15%);
   }
 }
 
 
 .post-content a{
-  color: $brand-color;    
-  text-decoration: none;  
+  color: $text-color;
+  text-decoration: none;
   border-bottom: 1px dotted;
-  &:visited {             
-    color: darken($brand-color, 25%);
-  }                       
 
-  &:hover {               
-    color: $hover-color;
+  &:hover {
+    color: $link-color;
     text-decoration: none;
-  }  
+  }
 
 }
 
@@ -207,7 +198,7 @@ code {
 
 pre {
   padding: 8px 12px;
-  overflow: auto; 
+  overflow: auto;
 
   > code {
     border: 0;
@@ -278,10 +269,10 @@ pre {
  */
 
 
-table { 
+table {
   padding: 0;
   margin-bottom: 5px;
-  border-collapse: collapse; 
+  border-collapse: collapse;
   font-size: $small-font-size;
 }
 table tr {
@@ -316,7 +307,7 @@ hr{
   border-bottom: 1px dotted #ccc;
 }
 
-cite{ 
+cite{
   font-style: italic;
   text-decoration: underline;
 }
