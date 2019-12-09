@@ -1,0 +1,10 @@
+I"�<p>It’s been a while since I last blogged here. Couple of reasons, first I’m working on a exciting <a href="http://apisquid.com">idea</a> of mine. second, I’ve decided to write technical articles on <a href="https://sitepoint.com/author/avinoth">sitepoint</a> from this month. Actually the true and main reason is I purchased Counter Strike Go last month and that’s what keeping my hands off the editor.</p>
+
+<!-- more -->
+
+<p>So, about the title. Yeah, I’ve been looking forward learning new language(s) this year which has been going pretty well. I started with golang since it is my first static typed language. It is fun and I’m still keeping up to it. Now, I’m planning to start with Elixir, which is a Functional programming language and there has been lots of talks around it. One special thing about elixir is it’s ruby-esque syntax and the concurrency model from erlang.</p>
+
+<p>Right after I’ve made up my mind to start with elixir, the question came whether I should start erlang first or elixir and after lots of to and fro between the documentation, I’ve decided to start with Erlang first and work my way towards Elixir.</p>
+
+<p>I’ve started with <a href="https://pragprog.com/book/jaerlang2/programming-erlang">Programming Erlang by Joe Armstrong</a> and so far I’ve completed two chapters. I’ll be honest, Erlang seems bizarre with more unconventional way from the languages I’ve known. With equal sign being pattern matching operator to variables that can only hold constant value. It will take some getting used to. But one thing for sure, I can’t wait to get my hands on Elixir and build awesome stuff with it.</p>
+:ET

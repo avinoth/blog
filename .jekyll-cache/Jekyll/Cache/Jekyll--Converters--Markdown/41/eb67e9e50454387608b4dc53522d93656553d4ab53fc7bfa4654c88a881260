@@ -1,0 +1,7 @@
+I"P<p>Recently I was debugging a code on <a href="https://intelllex.com">Intelllex</a> API and thought I’d share.</p>
+
+<p>We have a product called Stacks, where users can save links, searches and files to it, which helps them with organizing their legal research. Our stack is Rails on the API side and Angular on the client side.</p>
+
+<p>We use <a href="https://github.com/magnusvk/counter_culture">counter culture</a> gem to cache the counts of things that are saved to stacks by users and we also have the ability where users can save and move stuff from one stack to multiple stacks.</p>
+
+:ET

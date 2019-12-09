@@ -1,0 +1,22 @@
+I"�<p>Ever been in an situation where the <a href="youtube.com">Youtube</a> is blocked, either in your school or in your office or somewhere else?</p>
+
+<p>Well, this is actually done by Internet firewall software which is used by your organization to protect their network users from accessing certain category websites (like social media, adult sites, download sites, etc.)</p>
+
+<!-- more -->
+
+<p>Follow the below steps to unblock Youtube videos in such restricted network(Checked with Websense and Ironport security firewall)</p>
+
+<p>1) Search in <a href="google.com">google</a> for the exact video you want to view, if you don’t know the exact name but want to do a youtube search, use the syntax- youtube:search query</p>
+
+<p>2) It will return all the results related to your search query from Youtube.</p>
+
+<p>3) From the pile of results narrow down to the video you want to watch and just copy the link beneath the search result.</p>
+
+<p>4) Then, paste it into the web browser and change the URL by replacing “watch” with “embed” and replace the “?v=”with ”/”</p>
+
+<p>5) Click Enter! Ta-Da.. the video will be now playable now.</p>
+
+<p>If you face any error message like “The Video contains content from UMG. It is restricted from playback on certain sites” just click “Watch on YouTube” and it will get you into youtube without restriction.</p>
+
+<p>PS : This blog was indeed written from an restricted network..!!</p>
+:ET

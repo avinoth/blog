@@ -1,0 +1,5 @@
+I"�<p>As you probably know, <a href="https://git-scm.com/">git</a> is a popular version control software used in projects across the globe. One of the major feature and one that distinguishes it from other tools is it’s branching mechanism. Code is usually tracked via commits and grouped by branches in git.</p>
+
+<p>As the branches are lightweight and disposable it’s very easy to get cluttered when many people are working on a project or if there are many branches. And so, as anything with software, naming a git branch will itself need a standard convention to be followed in a project to keep it organized and sane. There are many naming formats out there and several project specific ones I’ve worked with.</p>
+
+:ET
