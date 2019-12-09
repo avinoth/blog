@@ -1,5 +1,0 @@
-I"0<p>Postgresql as we know is one of the most matured and robust database out there. It is open source, provides more features than any of its counterparts. It’s also the <a href="http://ocelot.ca/blog/blog/2013/10/14/the-third-most-popular-open-source-dbms/">second</a> most used open source DBMS out there. If you aren’t using it <a href="http://www.postgresql.org/download/">download</a> and get started.</p>
-
-<p>Today we shall look at how to perform trigram indexed searches and trigram combined with postgres full text search. Let’s get started.</p>
-
-:ET
