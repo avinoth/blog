@@ -3,7 +3,7 @@ title: View Youtube Videos on Restricted Network
 date: 2014-04-06 07:38:38 Z
 layout: post
 categories:
-- tips
+- uncategorized
 tags:
 - tutorial
 - youtube
